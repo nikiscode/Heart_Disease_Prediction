@@ -1,5 +1,4 @@
 # Heart Disease Prediction using Logistic Regression and KNN
-
 # =======================
 # Step 1: Import Libraries
 # =======================
@@ -185,3 +184,4 @@ plt.show()
 
 best_k = k_values[np.argmax(accuracy_scores)]
 print(f"\nBest K value: {best_k}")
+
