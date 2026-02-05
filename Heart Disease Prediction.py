@@ -185,3 +185,4 @@ plt.show()
 best_k = k_values[np.argmax(accuracy_scores)]
 print(f"\nBest K value: {best_k}")
 
+
